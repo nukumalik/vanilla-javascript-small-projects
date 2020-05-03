@@ -7,4 +7,4 @@ This projects is open source, so feel free to use and modify it.
 ___
 
 ## Project List
-- [Form Validation](https://github.com/vanilla-javascript-small-projects/input-validator)
+- [Form Validation](https://github.com/nukumalik/vanilla-javascript-small-projects/input-validator)
